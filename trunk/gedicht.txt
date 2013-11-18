@@ -17,6 +17,7 @@ Wie so weit und still die Welt!
 
 Sterne hoch die Kreise schlingen,
 Aus des Schnees Einsamkeit
+<<<<<<< HEAD
 Steigts wie serabrednuw Singen - 
 O du gnadenreiche Zeit!
 
@@ -24,3 +25,7 @@ Die Hasen rannten von Dannen
 unter zwei Tannen.
 Da kam der Jäger vorbei
 und schoss, dideldei, die Hasen zu Brei.
+=======
+Steigts wie wunderbares Singen - 
+O du gnadenreiche Zeit!
+>>>>>>> 67c45f4b0bbde00a232541947b57628c638fecd9
